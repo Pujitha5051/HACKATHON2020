@@ -6,10 +6,10 @@
     "UiPath.Excel.Activities": "[2.9.0-preview]",
     "UiPath.GoogleSpeech.Activities": "[0.1.6850.39757]",
     "UiPath.GSuite.Activities": "[1.5.1]",
+    "UiPath.Mail.Activities": "[1.9.0-preview]",
     "UiPath.System.Activities": "[20.6.1-preview]",
     "UiPath.UIAutomation.Activities": "[20.6.0-preview]",
-    "UiPath.WebAPI.Activities": "[1.4.5]",
-    "UiPathTeam.Gmail.Activities": "[1.0.6822.33137]"
+    "UiPath.WebAPI.Activities": "[1.4.5]"
   },
   "webServices": [],
   "schemaVersion": "4.0",
